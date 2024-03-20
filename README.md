@@ -39,15 +39,14 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 컴퓨터비전(cv2), OCR를 공부하고 활용하여 마지막 컴퓨터비전 프로젝트를 작업 후 성공적으로 해당 과정을 마무리하였습니다.
 
 <br>
-
-### **[KDT 1차 프로젝트 급하니 web](https://github.com/dev-aram/guphani_final.git)** <br>
-<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/79031147-16a0-4c64-802b-f968b8401667">
+### **[KDT 3차 프로젝트 어울림 컴퓨터비전](https://github.com/dev-aram/Eoullim.git)** <br>
+<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/d2e7313e-fecc-447b-ab39-c09ae4a3f2f0">
 
 ### **[KDT 2차 프로젝트 마추리 챗봇](https://github.com/dev-aram/Mathuri.git)** <br>
 <img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/193e3ac1-518d-47b2-820d-6cc6879cea21">
 
-### **[KDT 3차 프로젝트 어울림 컴퓨터비전](https://github.com/dev-aram/Eoullim.git)** <br>
-<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/d2e7313e-fecc-447b-ab39-c09ae4a3f2f0">
+### **[KDT 1차 프로젝트 급하니 web](https://github.com/dev-aram/guphani_final.git)** <br>
+<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/79031147-16a0-4c64-802b-f968b8401667">
 
 <hr>
 
