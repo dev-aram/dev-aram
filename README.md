@@ -73,11 +73,12 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 
 <br>
 
-### **[KDT 3차 프로젝트 어울림 컴퓨터비전](https://github.com/dev-aram/Eoullim.git)** <br>
+### **[KDT 1차 프로젝트 급하니 web](https://github.com/dev-aram/guphani_final.git)** <br>
 
-> mediapipe, Gpt API, ResNet을 사용하여 수어를 번역하고 번역한 수어를 tts 즉 음성으로 변환하여 출력해주는 어플리케이션
+> open API, 공공데이터를 이용하여 실시간으로 응급실 및 약국 상세 데이터를 확인 가능한 어플리케이션
 
-<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/d2e7313e-fecc-447b-ab39-c09ae4a3f2f0">
+
+<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/79031147-16a0-4c64-802b-f968b8401667">
 
 
 ### **[KDT 2차 프로젝트 마추리 챗봇](https://github.com/dev-aram/Mathuri.git)** <br>
@@ -86,12 +87,13 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 
 <img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/193e3ac1-518d-47b2-820d-6cc6879cea21">
 
-### **[KDT 1차 프로젝트 급하니 web](https://github.com/dev-aram/guphani_final.git)** <br>
 
-> open API, 공공데이터를 이용하여 실시간으로 응급실 및 약국 상세 데이터를 확인 가능한 어플리케이션
+### **[KDT 3차 프로젝트 어울림 컴퓨터비전](https://github.com/dev-aram/Eoullim.git)** <br>
 
+> mediapipe, Gpt API, ResNet을 사용하여 수어를 번역하고 번역한 수어를 tts 즉 음성으로 변환하여 출력해주는 어플리케이션
 
-<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/79031147-16a0-4c64-802b-f968b8401667">
+<img width="100%" alt="image" src="https://github.com/dev-aram/dev-aram/assets/135501045/d2e7313e-fecc-447b-ab39-c09ae4a3f2f0">
+
 
 <hr>
 
